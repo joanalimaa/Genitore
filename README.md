@@ -16,5 +16,5 @@ With this in mind, Genitore was created, an app for parents and caregivers where
 🇦🇺 - Swift programming language using UIKit.
 
 ## 👀 Preview 
-<img src="https://github.com/joanalimaa/Genitore/assets/102477430/f93579fb-06aa-4e53-bbf8-1eabf8aefea9" alt="Genitore" width="300">
+![Genitore](https://github.com/joanalimaa/Genitore/assets/102477430/675fb83f-6158-4765-b8a4-6c7211711d2b)
 
